@@ -1,0 +1,16 @@
+.minMaxInput {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height:200px;
+}
+.minInput{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.maxInput{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
