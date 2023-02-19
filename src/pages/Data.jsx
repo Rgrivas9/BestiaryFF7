@@ -1,6 +1,10 @@
+import Header from "../components/header"
 const Data = () => {
     return(
-        <main></main>
+        <>
+        <Header></Header>
+        <main><h1>Data</h1></main>
+        </>
     )
 }
 export default Data
